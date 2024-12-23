@@ -80,6 +80,13 @@ Contributions are welcome! If you want to improve this project, feel free to:
 3. Make the changes
 4. Open a pull request with a description of your changes
 
+## Configuration
+
+Make sure to add your **Gemini API key** in the `.env` file to connect to the API:
+```bash
+GOOGLE_API_KEY=your_api_key
+```
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
