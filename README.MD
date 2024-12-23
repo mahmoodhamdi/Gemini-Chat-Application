@@ -1,7 +1,3 @@
-Here’s the updated README with the "GPT" references removed:
-
----
-
 # Gemini Chat Application
 
 **Gemini Chat** is a modern, user-friendly chat application that integrates a powerful AI assistant for conversational experiences. Built using Flutter and powered by the BLoC pattern for state management, Gemini Chat delivers a responsive, seamless, and intuitive user interface. This app allows users to chat with an AI assistant, toggle between light and dark themes, and enjoy a smooth experience on both Android and iOS devices.
